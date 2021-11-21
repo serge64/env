@@ -2,7 +2,7 @@
 
 Package env provides an `env` struct field tag to unmarshal environment variables.
 
-Supported type type or unmarshaling:
+Supported types for unmarshaling:
 * int, int8, int16, int32, int64
 * float32, float64
 * time.Duration
